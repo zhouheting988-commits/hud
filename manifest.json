@@ -1,14 +1,7 @@
 {
-  "id": "hud",
   "name": "Ebbinghaus HUD",
-  "version": "1.0.0",
-  "description": "右下角悬浮，显示 D/R、剩余题数与预估分钟；支持拖拽、折叠、长按/右键设置。",
+  "version": "1.0.1",
+  "description": "右下角悬浮显示 D/R、剩余题数、预估分钟；拖拽/折叠/设置。",
   "author": "Dauvier",
-  "entry": "index.js",
-  "js": ["index.js"],
-  "css": [],
-  "runAt": "document_end",
-  "enable": true,
-  "homepage": "",
-  "license": "MIT"
+  "js": ["index.js"]
 }
